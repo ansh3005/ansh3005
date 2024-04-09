@@ -27,6 +27,6 @@ I'm enthusiastic about connecting with like-minded developers, exchanging ideas,
 # You can connect with me on:
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansh3005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/anshzalavadiya/](https://www.linkedin.com/in/ansh-zalavadiya-89a243239/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-zalavadiya-89a243239/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ansh_zalavadiya/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:zansh65@gmail.com)
