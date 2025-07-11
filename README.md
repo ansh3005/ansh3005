@@ -2,22 +2,21 @@
 
 I'm a passionate BSc IT student with a keen interest in Software Development. My journey has equipped me with proficiency in various programming languages and technologies, such as:
 
-- ASP.NET (C#)
-- Java
-- SQL
-- PHP
 - HTML
 - CSS
-- Adobe Photoshop
+- Javascript
+- React
 - C language
+- C++
+- Adobe Photoshop
+
 
 While my professional experience is yet to blossom, I am driven to utilize my skills and knowledge to craft immersive and functional websites. Renowned for my agility in learning and adeptness in problem-solving, I thrive in dynamic environments and embrace the challenges of mastering new technologies and programming paradigms.
 
 ## About Me
-- 🌱 Currently focusing on ASP.NET and Web Devlopment
+- 🌱 Currently focusing on ReactJS and Frontend Devlopment
 - 💼 Eager to contribute to innovative web development projects and expand my horizons
 - 🤔 Seeking mentorship and collaboration opportunities
-- 💬 Let's discuss anything related to web development or programming!
 - 📫 Reach me via 'zansh65@gmail.com'.
 - 😄 Pronouns: He/Him
 
